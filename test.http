@@ -1,0 +1,9 @@
+### send data to server
+POST http://localhost:8080/input
+Content-Type: application/json
+
+{
+  "repository": "123"
+}
+
+###
