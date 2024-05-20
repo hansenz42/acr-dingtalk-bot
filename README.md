@@ -55,10 +55,10 @@ go build
 
 ## 自定义访问地址
 
-如需要服务的 http 接口地址，可以自行在此处修改
+如要修改 http 接口地址：
 
 ```go
-// 修改改字符串修改接口地址，ACR 触发器 url 也要修改
+// 修改改字符串修改接口地址，相应 ACR 触发器 url 也要修改
 r.POST("/OTFlNDNlOGItNzc0NS00ZTczLWFjMzYtMGEzYTI0MzExY2Vl", func(c *gin.Context) {
   ...
 }
