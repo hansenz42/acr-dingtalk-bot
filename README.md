@@ -4,7 +4,9 @@
 
 使用本程序可以将免费版中镜像构建的触发器通知，转换为钉钉机器人消息，推送到钉钉。
 
-![image](https://github.com/hansenz42/aliyun-acr-dingtalk-notifier/assets/11825586/a8620d43-0743-4986-94a2-a854c412295d)
+效果：
+
+![image](https://github.com/hansenz42/acr-dingtalk-bot/assets/11825586/f0e3893e-cb2f-4ec1-809b-59672ec09b82)
 
 ## 准备
 
@@ -18,7 +20,7 @@
 
 进入阿里云控制台 -> ACR -> 个人实例 -> (你创建好的镜像仓库) -> 触发器 -> 创建
 
-![image](https://github.com/hansenz42/aliyun-acr-dingtalk-notifier/assets/11825586/87a321cd-cad7-42f9-b510-cdfd2baa8eec)
+![image](https://github.com/hansenz42/acr-dingtalk-bot/assets/11825586/a8d1223c-59ca-49df-9094-5c7fb2374212)
 
 - 名称：随便起一个，例如 "success"
 - URL：填写 `http(s)://{你的ip地址}:8085/OTFlNDNlOGItNzc0NS00ZTczLWFjMzYtMGEzYTI0MzExY2Vl`
