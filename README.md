@@ -24,7 +24,7 @@
 
 - 名称：随便起一个，例如 "success"
 - URL：填写 `http(s)://{你的ip地址}:8085/OTFlNDNlOGItNzc0NS00ZTczLWFjMzYtMGEzYTI0MzExY2Vl`
-- 触发方式：全部触发或按照你的需求修改
+- 触发方式：全部触发 即可
 
 ### 2 设置钉钉机器人
 
